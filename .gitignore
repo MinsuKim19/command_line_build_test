@@ -13,3 +13,4 @@ command_line_build_test.sln
 MyGame.apk
 MyGame_BackUpThisFolder_ButDontShipItWithYourGame/
 MyGame_BurstDebugInformation_DoNotShip/
+build.log
